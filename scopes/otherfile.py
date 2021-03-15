@@ -9,6 +9,7 @@ def f():
     x = 100
     print(x)
 
-
+x
+manynames.x
 f()
-manynames.f()
+manynames.g()

@@ -36,6 +36,14 @@ if __name__ == '__main__':
 
     # makes instance
     obj = C()
+    obj.x
+    obj.m(5)
+    obj.x
+    obj1 = C()
+    obj1.m(10)
+    obj1.x
+    obj2 = C()
+    obj2.x
     # class name inherited by instance
     print(obj.x)
 
