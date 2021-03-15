@@ -11,3 +11,9 @@ code to solve different data processing problems
             (Keep a certain subset of rows
 4.  Find the mean frequency of each dgrp line along the chromosome.  Add a new column to the data which is the mean frequency for each of the lines.
 5.  If a dgrp line has a mean frequency of less than 0.05, remove it from the data
+
+
+# scopes Folder
+The two scripts within this folder illustrate how 'assignment' of objects
+to a name, defines the scope in which that name lives, and thus where
+the object can be 'referenced'
