@@ -32,4 +32,3 @@ keyring, keyrings.cryptfile, keyring_jeepney, argon2-cffi, pycryptodome, SecretS
     7. Close the Ubuntu Terminal and Reopen it
     Typing only 'passw' into the terminal should initiate the program.
 Linux Packages: dos2unix"""
-Change
