@@ -13,9 +13,18 @@
     sudo apt-get install python-is-python3
     sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
     sudo apt-get install dos2unix
-
+    
     python -m pip install argon2-cffi
     python -m pip install SecretStorage
+    pip install pycryptodome
+        * or try 
+           python -m pip install pycryptodome
+    python -m pip install cryptography
+    python -m pip install testresources
+    python -m pip install keyring_jeepney
+    python -m pip install keyrings.cryptography
+    
+    
     
 # Turning .py into Executable Program Steps
 * Assuming your current directory is PasswKey (Example: C:/Users/name/PyCharmProjects/PasswKey
